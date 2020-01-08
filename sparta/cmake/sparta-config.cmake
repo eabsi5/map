@@ -11,6 +11,7 @@
 # * ${RAPIDJSON_INCLUDE_DIRS} - the path RapidJSON
 #
 ################################################################################
+set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "${CMAKE_SOURCE_DIR}/cmake/modules/")
 
 # Find Boost
 set (_BOOST_COMPONENTS filesystem date_time iostreams serialization timer program_options)
