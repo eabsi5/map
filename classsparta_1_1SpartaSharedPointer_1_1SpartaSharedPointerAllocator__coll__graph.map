@@ -1,0 +1,4 @@
+<map id="sparta::SpartaSharedPointer&lt; PointerT &gt;::SpartaSharedPointerAllocator" name="sparta::SpartaSharedPointer&lt; PointerT &gt;::SpartaSharedPointerAllocator">
+<area shape="rect" id="node1" title="A memory allocator complementing SpartaSharedPointer that reuses old memory." alt="" coords="5,80,224,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="63,5,166,32"/>
+</map>
